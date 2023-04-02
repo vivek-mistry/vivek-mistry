@@ -11,6 +11,11 @@ About MySelf:
 - ⚡ Fun fact: LEARN together, GROW together.
 
 Project :
-<a href="www.kreedatantra.com/">www.kreedatantra.com/</a>
+
+<strong>KreedaTantra</strong>
+- <a href="hhtps://www.kreedatantra.com/" target="_blank">www.kreedatantra.com/</a>
+
+<strong>Acurovet</strong>
+- <a href="hhtps://www.acurovet.com/" target="_blank">www.acurovet.com/</a>
 
 Thank you very much to read my pofile.
