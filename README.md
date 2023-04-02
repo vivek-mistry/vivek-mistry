@@ -12,10 +12,10 @@ About MySelf:
 
 Project :
 
-<strong>KreedaTantra</strong>
-- <a href="hhtps://www.kreedatantra.com/" target="_blank">www.kreedatantra.com/</a>
+<strong>1. KreedaTantra</strong>
+- <a href="hhtps://www.kreedatantra.com/" target="_blank">www.kreedatantra.com</a>
 
-<strong>Acurovet</strong>
-- <a href="hhtps://www.acurovet.com/" target="_blank">www.acurovet.com/</a>
+<strong>2. Acurovet</strong>
+- <a href="hhtps://www.acurovet.com/" target="_blank">www.acurovet.com</a>
 
 Thank you very much to read my pofile.
