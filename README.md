@@ -1,5 +1,4 @@
 ### Hi there 👋,
-    I am new here, currently managing some useful code & snippets in laravel. It will help in future to manage the code in future. Your suggestionns are very useful for me.
 
 About MySelf: 
 
