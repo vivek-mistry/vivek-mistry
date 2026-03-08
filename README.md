@@ -62,18 +62,6 @@ Backend developer with 8+ years of experience building scalable web applications
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vivek-mistry&show_icons=true)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-mistry\&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 * 🌍 Website: https://vivekmistry.in
