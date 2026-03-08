@@ -64,7 +64,7 @@ Backend developer with 8+ years of experience building scalable web applications
 
 ## 📊 GitHub Stats
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek-mistry\&show_icons=true\&count_private=true\&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vivek-mistry&show_icons=true)
 
 ---
 
