@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Mistry</h1>
-<h3 align="center">Senior Laravel Developer | Backend Engineer | API Specialist</h3>
+<h3 align="center">Senior Certified Laravel Developer | Backend Engineer | API Specialist</h3>
 
 <p align="center">
 Backend developer with 8+ years of experience building scalable web applications, APIs, and high-performance backend systems.
